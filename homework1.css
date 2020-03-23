@@ -1,0 +1,27 @@
+* {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Jua', sans-serif;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 5px 0px 5px 0px;
+    border-radius: 10px;
+}
+
+.submit {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.wrap {
+    width: 600px;
+    margin: 0 auto 0 auto;
+}
